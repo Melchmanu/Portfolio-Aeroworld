@@ -55,6 +55,9 @@ Le projet a été structuré en plusieurs étapes clés :
 ### 📌 Étape 3 : Documentation et Démonstration
 - Rédaction de la **documentation** expliquant l’approche et la conception des tableaux de bord.
 - Création d’un **guide Power BI** pour la démonstration interactive.
+-  ## Formation Power BI
+[Regarder la vidéo de formation sur Loom](https://www.loom.com/share/f29a4487eccb42aea9999a9c4ddea97b?sid=37fa4b16-12bb-41d6-8545-b5e240b996d3)
+
 - Préparation d’une **présentation finale** pour valider le portfolio auprès du client.
 
 ---
