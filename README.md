@@ -1,4 +1,4 @@
-# 🚀 Portfolio Aéroworld
+#  Portfolio Aéroworld
 
 Ce dépôt GitHub contient l’ensemble des livrables et documents associés à la création d’un **portfolio interactif** destiné à démontrer mes compétences en tant que **Data Analyst**. Ce projet s'inscrit dans le cadre d'une candidature pour **Aéroworld**, une entreprise exigeante qui souhaite analyser les portfolios des candidats avant les entretiens.
 
@@ -6,7 +6,7 @@ Ce dépôt GitHub contient l’ensemble des livrables et documents associés à 
 
 ---
 
-## 📖 Contexte du Projet  
+##  Contexte du Projet  
 
 L’objectif de ce projet est de construire un **portfolio professionnel** qui met en avant mes compétences techniques et analytiques à travers des **tableaux de bord interactifs**, des **documents de gestion de projet**, et une **analyse approfondie des besoins métier**.
 
@@ -20,7 +20,7 @@ Aéroworld recherche un **profil de Data Analyst confirmé**, capable de manager
 
 ---
 
-## 📂 Contenu du Dépôt  
+##  Contenu du Dépôt  
 
 | Fichier | Description |
 |---------|------------|
@@ -62,7 +62,7 @@ Le projet a été structuré en plusieurs étapes clés :
 
 ---
 
-## 🎯 Objectifs et Résultats  
+##  Objectifs et Résultats  
 
 ✅ **Mettre en avant un profil data analytique à travers un portfolio structuré et interactif.**  
 ✅ **Démontrer mes compétences en gestion de projet, visualisation de données et storytelling analytique.**  
