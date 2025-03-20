@@ -26,11 +26,11 @@ Aéroworld recherche un **profil de Data Analyst confirmé**, capable de manager
 |---------|------------|
 | 📄 [Analyse-des-Besoins-Metiers-dAeroworld.pdf](./Analyse-des-Besoins-Metiers-dAeroworld.pdf) | Analyse du besoin métier du client et de ses attentes en termes de recrutement. |
 | 📄 [Cahier-des-charges-Portfolio-candidat-Aeroworld.pdf](./Cahier-des-charges-Portfolio-candidat-Aeroworld.pdf) | Cahier des charges détaillant les éléments clés du portfolio. |
-| 📊 [Gantt.pbix](./Gantt.pbix) | Diagramme de Gantt représentant les délais et étapes du projet. |
+| 📊 [Gantt.pbix](./Gantt.jpg) | Diagramme de Gantt représentant les délais et étapes du projet. |
 | 📘 [Guide Power BI.pdf](./Guide%20Power%20Bi.pdf) | Guide de démonstration pour la création et l'utilisation des tableaux de bord sous Power BI. |
 | 🖼️ [MOCKUP VEILLE.jpg](./MOCKUP%20VEILLE.jpg) | Croquis du tableau de bord de veille sur les métiers de la data. |
 | 🖼️ [cv pbi.jpg](./cv%20pbi.jpg) | Capture d’écran du tableau de bord CV interactif. |
-| 📄 [cv.pbix](./cv.pbix) | Tableau de bord Power BI du CV interactif. |
+| 📄 [cv.pbix](./cv.pbix.jpg) | Tableau de bord Power BI du CV interactif. |
 | 📄 [mockup cv.pdf](./mockup%20cv.pdf) | Prototype du tableau de bord CV. |
 | 📄 [Veille métier data.pbip](./Veille%20métier%20data.pbip) | Tableau de bord interactif dédié à la veille métier sur la data. |
 | 📌 [README.md](./README.md) | Ce document décrivant le projet. |
