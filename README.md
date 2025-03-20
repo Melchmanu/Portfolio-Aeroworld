@@ -22,34 +22,44 @@ Ce portfolio répond aux attentes d'Aéroworld et comprend :
 
 | Fichier | Description |
 |---------|-------------|
+| 📊 **[Gantt.pbix](./gant.jpg)** | Diagramme de Gantt montrant la planification du projet. |
+| 📄 **[carte mentale melch-4.pdf](./carte%20mentale%20melch-4.pdf)** | Carte mentale structurée pour organiser les étapes du projet. |
+| 🖼️ **[MOCKUP VEILLE.jpg](./MOCKUP%20VEILLE.jpg)** | Prototype initial du tableau de veille métier. |
+| 🖼️ **[mockup cv.pdf](./mockup%20cv.pdf)** | Prototype initial du tableau CV interactif. |
+| 📊 **[veille métier pbi.jpg](./veille%20métier%20pbi.jpg)** | Tableau de veille métier finalisé sous Power BI. |
+| 📊 **[cv pbi.jpg](./cv%20pbi.jpg)** | Tableau CV interactif finalisé sous Power BI. |
 | 📄 **[Analyse-des-Besoins-Metiers-dAeroworld.pdf](./Analyse-des-Besoins-Metiers-dAeroworld.pdf)** | Analyse des besoins métier d'Aéroworld. |
-| 📄 **[Cahier-des-charges-Portfolio-candidat-Aeroworld.pdf](./Cahier-des-charges-Portfolio-candidat-Aeroworld.pdf)** | Cahier des charges du portfolio. |
-| 🖼️ **[gant.jpg](./gant.jpg)** | Diagramme de Gantt détaillant les étapes et délais du projet. |
-| 📄 **[Guide Power Bi.pdf](./Guide%20Power%20Bi.pdf)** | Guide pratique pour utiliser les tableaux de bord Power BI. |
-| 🖼️ **[MOCKUP VEILLE.jpg](./MOCKUP%20VEILLE.jpg)** | Design du tableau de bord de veille métier. |
-| 📊 **[cv pbi.jpg](./cv%20pbi.jpg)** | Illustration du tableau de bord interactif présentant mon CV. |
-| 📊 **[veille métier pbi.jpg](./veille%20métier%20pbi.jpg)** | Tableau de bord sur la veille métier. |
-| 📄 **[mockup cv.pdf](./mockup%20cv.pdf)** | Prototype PDF du tableau de bord CV. |
-| 📄 **[carte mentale melch-4.pdf](./carte%20mentale%20melch-4.pdf)** | Carte mentale structurant le projet. |
-| 🎥 **[Vidéo Formation Power BI](https://www.loom.com/share/f29a4487eccb42aea9999a9c4ddea97b?sid=37fa4b16-12bb-41d6-8545-b5e240b996d3)** | Vidéo interactive pour comprendre les tableaux Power BI. |
+| 📄 **[Cahier-des-charges-Portfolio-candidat-Aeroworld.pdf](./Cahier-des-charges-Portfolio-candidat-Aeroworld.pdf)** | Cahier des charges du portfolio détaillant les livrables. |
+| 📄 **[Guide Power Bi.pdf](./Guide%20Power%20Bi.pdf)** | Guide pratique expliquant l'utilisation des dashboards Power BI. |
+| 🎥 **[Vidéo Formation Power BI](https://www.loom.com/share/f29a4487eccb42aea9999a9c4ddea97b?sid=37fa4b16-12bb-41d6-8545-b5e240b996d3)** | Vidéo interactive détaillant l'utilisation de Power BI. |
 
 ---
 
 ## **Déroulement du Projet**
 
 ### Étape 1 : Organisation et Planification
-- Création d’une **carte mentale** pour structurer le projet. *(cf. carte mentale melch-4.pdf)*
-- Élaboration du **diagramme de Gantt** pour détailler la planification.
+- Création du **Diagramme de Gantt** pour organiser la chronologie et les différentes tâches du projet. *(cf. gant.jpg)*
 
-### Étape 2 : Conception des Tableaux de Bord
-- Réalisation des maquettes (**mockups**) pour les tableaux interactifs.
-- Développement des dashboards Power BI, notamment :
-  - **Tableau CV interactif** *(cf. cv pbi.jpg)*.
-  - **Tableau de veille métier data** *(cf. veille métier pbi.jpg)*.
+### Étape 2 : Structuration du Projet
+- Réalisation d’une **carte mentale** pour structurer les idées et visualiser les éléments clés à développer. *(cf. carte mentale melch-4.pdf)*
 
-### Étape 3 : Documentation et Présentation
-- Rédaction des documents explicatifs (analyse métier, cahier des charges).
-- Vidéo interactive montrant l'utilisation des dashboards Power BI.
+### Étape 3 : Maquettage des Dashboards
+- Conception des **mockups** des tableaux interactifs pour planifier leur développement :
+  - **Prototype du tableau de veille métier** *(cf. MOCKUP VEILLE.jpg)*.
+  - **Prototype du tableau CV interactif** *(cf. mockup cv.pdf)*.
+
+### Étape 4 : Développement des Tableaux de Bord
+- Réalisation des dashboards sous Power BI :
+  - **Tableau CV interactif** *(cf. cv.pbix et cv pbi.jpg)*.
+  - **Tableau de veille métier** *(cf. Veille métier data.pbip et veille métier pbi.jpg)*.
+
+### Étape 5 : Documentation Analytique
+- Rédaction de l’**analyse des besoins métier** d'Aéroworld. *(cf. Analyse-des-Besoins-Metiers-dAeroworld.pdf)*.
+- Écriture du **cahier des charges** contenant les exigences et les livrables. *(cf. Cahier-des-charges-Portfolio-candidat-Aeroworld.pdf)*.
+
+### Étape 6 : Formation Power BI
+- Création du **Guide Power BI**, un document pratique expliquant la navigation et l'utilisation des tableaux interactifs. *(cf. Guide Power Bi.pdf)*.
+- Réalisation d’une **vidéo interactive** expliquant les étapes et outils employés dans Power BI. *(cf. Vidéo Formation Power BI)*.
 
 ---
 
@@ -67,7 +77,7 @@ Ce portfolio répond aux attentes d'Aéroworld et comprend :
 Téléchargez les fichiers interactifs via GitHub et ouvrez-les avec Power BI Desktop pour explorer les données.
 
 ### 🔹 Consulter les Documents
-Accédez aux documents PDF pour les détails des analyses et prototypes. Les fichiers `.jpg` montrent les tableaux réalisés.
+Les fichiers PDF et images contiennent les analyses et prototypes clés. Les fichiers `.pbix` sont prêts pour une exploration interactive.
 
 ---
 
