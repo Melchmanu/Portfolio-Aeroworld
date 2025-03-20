@@ -37,7 +37,7 @@ Aéroworld recherche un **profil de Data Analyst confirmé**, capable de manager
 
 ---
 
-## 🛠️ Déroulement du Projet  
+##  Déroulement du Projet  
 
 Le projet a été structuré en plusieurs étapes clés :
 
@@ -71,7 +71,7 @@ Le projet a été structuré en plusieurs étapes clés :
 
 ---
 
-## 📌 Guide d’Utilisation  
+##  Guide d’Utilisation  
 
 ### 🔹 **Ouvrir les Tableaux de Bord**
 1. **Télécharger** les fichiers `.pbix` depuis ce repository.
@@ -83,7 +83,7 @@ Le projet a été structuré en plusieurs étapes clés :
 
 ---
 
-## 📬 Contact  
+##  Contact  
 
 Si vous avez des questions ou souhaitez en savoir plus sur ce projet, n'hésitez pas à me contacter via GitHub ou LinkedIn.  
 
